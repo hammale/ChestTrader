@@ -1,0 +1,7 @@
+name: ChestTrader
+main: org.giinger.chesttrader.ChestTrader
+version: 1.0
+author: Giinger
+description: Trade items from a chest!
+depend:
+- Vault
